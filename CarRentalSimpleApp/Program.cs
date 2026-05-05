@@ -12,7 +12,6 @@ namespace CarRentalSimpleApp
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
             
-            
         }
     }
 }
