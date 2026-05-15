@@ -16,7 +16,6 @@ namespace CarRentalSimpleApp
 
 
 
-
         }
     }
 }
